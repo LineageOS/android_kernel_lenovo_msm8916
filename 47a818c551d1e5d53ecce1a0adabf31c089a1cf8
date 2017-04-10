@@ -16,6 +16,24 @@
       "revId": "47a818c551d1e5d53ecce1a0adabf31c089a1cf8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a51691d_d06bf183",
+        "filename": "arch/arm/boot/dts/qcom/msm8939-v3.0-gpu.dtsi",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 13610
+      },
+      "writtenOn": "2017-04-10T17:20:45Z",
+      "side": 1,
+      "message": "this blank line is present in msm8929 and msm8939 dtsi. I just added here for keeping the same format. That\u0027s probably just for having it more organized.",
+      "parentUuid": "7a51691d_bb05fb15",
+      "revId": "47a818c551d1e5d53ecce1a0adabf31c089a1cf8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
