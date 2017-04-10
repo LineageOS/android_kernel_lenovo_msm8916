@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a51691d_bb05fb15",
+        "filename": "arch/arm/boot/dts/qcom/msm8939-v3.0-gpu.dtsi",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 15791
+      },
+      "writtenOn": "2017-04-10T06:26:38Z",
+      "side": 1,
+      "message": "Why this blank line?",
+      "revId": "47a818c551d1e5d53ecce1a0adabf31c089a1cf8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
