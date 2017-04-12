@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a51691d_a174a59c",
+        "filename": "drivers/input/touchscreen/ft5x06_ts.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 1318,
+      "author": {
+        "id": 15791
+      },
+      "writtenOn": "2017-04-12T06:35:13Z",
+      "side": 1,
+      "message": "trailing whitespace",
+      "revId": "04204f695252fc17fa6145339de541b363d758ca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
